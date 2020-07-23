@@ -1,0 +1,13 @@
+__pycache__
+.dockerignore
+.gcloudignore
+.git/
+.gitignore
+cloudbuild.yaml
+kubernetes_templates
+shared/reports/*
+shared/xml_files/*
+Dockerfile
+LICENSE
+Makefile
+README.md
